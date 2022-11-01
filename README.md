@@ -3,6 +3,8 @@
 file dari bwa, mastering ui design 7 days
 
 ![Empty State V1](https://user-images.githubusercontent.com/97945445/199197246-3eea9a89-1dc3-4b96-a666-4f52713a77d3.png)
+<img src="https://user-images.githubusercontent.com/97945445/199197246-3eea9a89-1dc3-4b96-a666-4f52713a77d3.png" width="300" height="300" />
+
 ![Empty State V2](https://user-images.githubusercontent.com/97945445/199197479-4e5059bc-c166-4df5-97b7-6c4202a0908f.png)
 ![Pricing V1](https://user-images.githubusercontent.com/97945445/199198408-6018642d-5e19-4f06-9c01-c20e6c569b7b.png)
 ![Pricing V2](https://user-images.githubusercontent.com/97945445/199198281-62401432-1d06-4a29-becf-4a08e812adbd.png)
